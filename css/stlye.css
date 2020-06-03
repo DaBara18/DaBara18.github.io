@@ -1,0 +1,14 @@
+html,body {
+    background-color: rgb(39, 228, 49);
+}
+table {
+    width: 20%;
+}
+
+tr {
+    text-align: center;
+}
+
+.table-hover tbody tr:hover {
+    background: whitesmoke;
+}
